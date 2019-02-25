@@ -1,4 +1,4 @@
-"Year","CrudeOilConsumption","TempChange"
+year,crude_oil_consumption,temp_change
 1981,5861058,1.1
 1982,5582938,-0.67
 1983,5559364,-0.14
